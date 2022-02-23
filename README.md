@@ -1,6 +1,6 @@
-<code>🎓 Student: Chelyabinsk State University / IM-11</code>
+<code>🎓 Student: Chelyabinsk State University </code>
 <code>⚪ Community: Metarhia</code>
-<code>👷 Speciality: Programming engineering</code><br>
+<code>👷 Speciality: Software engineering</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
